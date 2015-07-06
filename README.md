@@ -1,3 +1,3 @@
 # euler
 
-Project Euler workspace for excercise problems.
+Project Euler workspace for excercises.
