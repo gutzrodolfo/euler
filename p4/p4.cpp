@@ -11,8 +11,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 #include <vector> 
 
 using namespace std;
-
-//function to check for palindrome. 
+ 
 bool is_palindrome(string palind);
 
 int main()
