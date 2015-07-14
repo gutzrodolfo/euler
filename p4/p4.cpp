@@ -1,10 +1,9 @@
-//  Rodolfo Gutierrez
-//  Stack.cpp
-//  Lab6
-//
-//  Created by Rodolfo Gutierrez on 10/30/13.
-//  Copyright (c) 2013 Rodolfo Gutierrez. All rights reserved.
-//
+/*
+Problem: A palindromic number (or string of characters) that reads the same both ways. 
+The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+
+Find the largest palindrome made from the product of two 3-digit numbers.
+*/
 
 #include <iostream>
 #include <sstream>
@@ -13,10 +12,8 @@
 
 using namespace std;
 
+//function to check for palindrome. 
 bool is_palindrome(string palind);
-//void post_fix(string e);
-
-string temp;
 
 int main()
 {
